@@ -1,0 +1,16 @@
+tmp/
+*_image/
+binaries/
+READMEBS.md
+READMEZala.sh
+.python-version
+videos/
+android/
+binaries
+README.md
+TODO.md
+CHANGELOG.md
+CONTRIBUTING.md
+LATEST_RELEASE_TEMPLATE.md
+LATEST_RELEASE.md
+bats/
